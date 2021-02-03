@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time_Sheet_MVC", "Time_Sheet_MVC.csproj", "{B6735982-88E1-497D-98DA-1AF7D4632074}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6735982-88E1-497D-98DA-1AF7D4632074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6735982-88E1-497D-98DA-1AF7D4632074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6735982-88E1-497D-98DA-1AF7D4632074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6735982-88E1-497D-98DA-1AF7D4632074}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {089E00BB-8BDF-4231-8796-C8F7CEB07A9B}
+	EndGlobalSection
+EndGlobal
